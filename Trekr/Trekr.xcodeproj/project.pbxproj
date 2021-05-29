@@ -16,6 +16,8 @@
 		EBD3086A2662EFC100F4353F /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD308692662EFC100F4353F /* Location.swift */; };
 		EBD3086C2662F43B00F4353F /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD3086B2662F43B00F4353F /* Locations.swift */; };
 		EBD3086E2662F89400F4353F /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD3086D2662F89400F4353F /* WorldView.swift */; };
+		EBD308702662FD8400F4353F /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD3086F2662FD8400F4353F /* Tip.swift */; };
+		EBD308722662FE0400F4353F /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD308712662FE0400F4353F /* TipsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		EBD308692662EFC100F4353F /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		EBD3086B2662F43B00F4353F /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
 		EBD3086D2662F89400F4353F /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
+		EBD3086F2662FD8400F4353F /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
+		EBD308712662FE0400F4353F /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 			children = (
 				EBD307E92662E12000F4353F /* TrekrApp.swift */,
 				EBD3086D2662F89400F4353F /* WorldView.swift */,
+				EBD3086F2662FD8400F4353F /* Tip.swift */,
+				EBD308712662FE0400F4353F /* TipsView.swift */,
 				EBD307EB2662E12000F4353F /* ContentView.swift */,
 				EBD3086B2662F43B00F4353F /* Locations.swift */,
 				EBD308692662EFC100F4353F /* Location.swift */,
@@ -158,6 +164,8 @@
 				EBD307EC2662E12000F4353F /* ContentView.swift in Sources */,
 				EBD3086A2662EFC100F4353F /* Location.swift in Sources */,
 				EBD3086E2662F89400F4353F /* WorldView.swift in Sources */,
+				EBD308702662FD8400F4353F /* Tip.swift in Sources */,
+				EBD308722662FE0400F4353F /* TipsView.swift in Sources */,
 				EBD3086C2662F43B00F4353F /* Locations.swift in Sources */,
 				EBD307EA2662E12000F4353F /* TrekrApp.swift in Sources */,
 			);
